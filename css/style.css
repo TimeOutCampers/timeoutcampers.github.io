@@ -95,7 +95,8 @@ header .box1 {
 	padding: 4px 42px 4px 32px;
 }
 header .box2 {
-	background: #e93402;
+/*	background: #e93402;*/
+	background: steelblue;
 	padding: 0 42px 0 32px;
 }
 .chat_box {
@@ -270,7 +271,8 @@ nav.tm_navbar li:last-child {
 nav.tm_navbar li a {
 	position: relative;
 	padding: 0 18px;
-	font: 24px/96px 'Lato';
+/*	font: 24px/96px 'Lato';*/
+	font: 24px/96px 'Roboto';
 	color: #ffffff;
 	text-transform: uppercase;
 	background: transparent;
@@ -1641,7 +1643,7 @@ footer br {
 	color: #ffffff;
 }
 /*========================================================
-                RESPONSIVE LAYOUTS STYLES 
+                RESPONSIVE LAYOUTS STYLES
 =========================================================*/
 @media (min-width: 1400) {
  .container {
